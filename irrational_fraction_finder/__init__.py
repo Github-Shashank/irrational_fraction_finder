@@ -1,1 +1,1 @@
-from .core import IrrationalFraction
+from .core import irr_frac
